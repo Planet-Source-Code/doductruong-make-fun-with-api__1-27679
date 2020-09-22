@@ -1,0 +1,60 @@
+[User]
+NC:c:\nc\nc.exe
+Visual basic 6.0:C:\Program Files\Microsoft Visual Studio\VB98\VB6.EXE
+Visual C++ 6.0:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+Paint:Pbrush.exe
+Word:C:\Program Files\Microsoft Office\Office\WINWORD.EXE
+Vb help:winhelp.exe c:\My Documents\vb.hlp
+MSDN:C:\Program Files\DevStudio\MSDN\Bin\IV5.EXE
+ApiLoader:C:\Program Files\Microsoft Visual Studio\Common\Tools\Winapi\APILOAD.EXE
+-:
+Explorer:Explorer.exe
+DOS:DosPrmpt.pif
+Caculator:Calc.exe
+CD Play:Cdplayer.exe
+Notepad:Notepad.exe
+Win Help:HH.exe GetStart.chm
+Defrag disk:Defrag.exe
+Screen saver:Msscenes.scr
+Sound recorder:Sndrec32.exe
+Sound volume:Sndvol32.exe
+Welcome to Windows:Welcome.exe
+Win file:Winfile.exe
+-:
+FreeCell:FreeCell.exe
+Solitaire:Sol.exe
+Winmine:Winmine.exe
+-:
+Task man:Taskman.exe
+Restart in MS-DOS Mode:Exit To Dos.pif
+[System]
+Scandisk:ScandskW.exe
+Disk cleanup:C:\WINDOWS\CLEANMGR.EXE
+System Editor:SysEdit.exe
+Startup configs:MsConfig.exe
+RegEdit [Advance user]:RegEdit.exe
+Control Panel:Rundll32.exe shell32.dll,Control_RunDLL
+Add/Remove programs:rundll32.exe shell32.dll,Control_RunDLL appwiz.cpl
+System Properties:rundll32.exe shell32.dll,Control_RunDLL Sysdm.cpl
+Display:rundll32.exe shell32.dll,Control_RunDLL desk.cpl,,3
+Fonts:rundll32.exe shell32.dll,Control_RunDLL main.cpl,@3
+Date/Time Properties:rundll32.exe shell32.dll,Control_RunDLL TimeDate.cpl
+Multimedia Properties:rundll32.exe shell32.dll,Control_RunDLL mmsys.cpl
+Power configs:rundll32.exe shell32.dll,Control_RunDLL Powercfg.cpl
+Windows update:WupDmgr.exe
+Win Version:Winver.exe
+-:
+Dialing Properties:rundll32.exe shell32.dll,Control_RunDLL Telephon.cpl
+Password Properties:rundll32.exe shell32.dll,Control_RunDLL Password.cpl,,2
+ODBC32:rundll32.exe shell32.dll,Control_RunDLL Odbccp32.cpl
+Network configs:rundll32.exe shell32.dll,Control_RunDLL netcpl.cpl
+Modem Properties:rundll32.exe shell32.dll,Control_RunDLL modem.cpl
+Sounds Properties:rundll32.exe shell32.dll,Control_RunDLL mmsys.cpl,@1
+Printers:rundll32.exe shell32.dll,Control_RunDLL main.cpl,@2
+Keyboard Properties:rundll32.exe shell32.dll,Control_RunDLL main.cpl,@1
+Game controllers:rundll32.exe shell32.dll,Control_RunDLL joy.cpl
+Regional setting:rundll32.exe shell32.dll,Control_RunDLL Intl.cpl,,
+Internet Properties:rundll32.exe shell32.dll,Control_RunDLL Inetcpl.cpl
+-:
+;Exit Windows:Rundll32.exe User.exe,ExitWindows
+Eject CD:Eject.com
